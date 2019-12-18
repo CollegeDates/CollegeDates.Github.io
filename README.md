@@ -1,4 +1,6 @@
-# CollegeDates.Github.io
+# CollegeDates
+
+Welcome to College Dates!
 
 College dates is an app that will help connect singles based on the university they attended.
 
