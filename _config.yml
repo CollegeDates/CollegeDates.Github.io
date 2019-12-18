@@ -1,4 +1,4 @@
-theme: jekyll-theme-midnight
+
 <!DOCTYPE html>
 <html>
 
@@ -25,3 +25,4 @@ theme: jekyll-theme-midnight
 </body>
 
 </html>
+theme: jekyll-theme-midnight
